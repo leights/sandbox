@@ -4,7 +4,7 @@
 #include <sstream>
 
 using namespace std;
-const int NUMTHREADS = 2;
+const int NUMTHREADS = 3;
 void run();
 
 class Tester {
