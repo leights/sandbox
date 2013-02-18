@@ -1,3 +1,7 @@
+/*
+ * adding comments to the file.
+*/
+
 #include <iostream>
 #include "../core/include/socket.h"
 
